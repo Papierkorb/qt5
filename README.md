@@ -70,6 +70,8 @@ Using your system's package manager:
 * **ArchLinux** `pacman -S qt5-base`
 * **Debian** `apt-get install qtbase5-dev`
 * **Ubuntu** `apt-get install qtbase5-dev`
+* **MacOS** `brew install qt5`
+
 
 # User perspective
 
